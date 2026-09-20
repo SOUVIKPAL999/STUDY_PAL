@@ -1,0 +1,6 @@
+{
+  "name": "AI Study Pal",
+  "description": "Intelligent study companion for undergraduate and graduate students in CSE, AI, and Data Science with mode-adapted explanations, code debugging, math solving, and exam revision.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
